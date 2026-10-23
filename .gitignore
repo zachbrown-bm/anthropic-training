@@ -33,3 +33,6 @@ Thumbs.db
 .coverage
 .pytest_cache/
 htmlcov/
+
+# Rust build artifacts
+/target
